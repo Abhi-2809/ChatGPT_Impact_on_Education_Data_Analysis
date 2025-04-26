@@ -1,11 +1,11 @@
 # ChatGPT Student Survey Analysis
 
 This repository contains the data and code used to explore student perceptions of ChatGPT in education, skills development, and the workforce.
+**Original Dataset Source**: :https://data.mendeley.com/datasets/ymg9nsn6kn/2
 
 ## 📂 Repository Structure
 
 ### 1. `Data/`
-- **Original Dataset Source**: :https://data.mendeley.com/datasets/ymg9nsn6kn/2
 - **Cleaned Dataset**: Scripts to preprocess and clean the original survey dataset.
 - **Questionnaire**: Survey questions used to collect responses.
 
