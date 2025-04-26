@@ -16,7 +16,7 @@ This repository contains the data and code used to explore student perceptions o
     - Differences in ChatGPT usage extent across age groups.
     - Comparison between free and paid ChatGPT users.
     - Patterns in how students use ChatGPT for various academic tasks.
-- **Part 2: 
+- **Part 2: Data Analysis**:
 
 ---
 
@@ -37,6 +37,6 @@ We analyzed thousands of student survey responses to understand:
 
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out
-Abhinav Arabelly📧 [Email me](mailto:arabellyabhinav28@gmail.com)
+📧 [Abhinav Arabelly](mailto:arabellyabhinav28@gmail.com)
 Yash Chaudhari!
 
