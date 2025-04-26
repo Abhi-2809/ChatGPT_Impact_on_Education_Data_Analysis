@@ -11,8 +11,7 @@ This repository contains the data and code used to explore student perceptions o
 
 ### 2. `Code/`
 -  **Part 1: Data Analysis**:
-  Code for initial data exploration, summary statistics
-  This notebook explores:
+  Code for initial data exploration, summary statistics. We further explores:
   1. Students' emotional responses to using ChatGPT.
   2. Differences in ChatGPT usage extent across age groups.
   3. Comparison between free and paid ChatGPT users.
