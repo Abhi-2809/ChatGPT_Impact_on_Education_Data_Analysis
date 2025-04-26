@@ -18,7 +18,7 @@ For a more detailed analysis and discussion, check out our Medium articles:
 
 ### 2. `Final Dataset/`
 
-- ** Final Dataset ** : ChatGPT_Education_Analysis.csv - Final Dataset - Ready to use for Analysis
+- ChatGPT_Education_Analysis.csv - Final Dataset - Ready to use for Analysis
 
 ### 3. `Code/`
 -  **Part 1: Data Analysis**:
