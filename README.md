@@ -6,7 +6,7 @@ This repository contains the data and code used to explore student perceptions o
 
 ## 📚 Further Reading
 For a more detailed analysis and discussion, check out our Medium articles:
-- 📖 [Part 1: What Students Really Think About ChatGPT](https://medium.com/@arabellyabhinav28/what-students-really-think-about-chatgpt-a-data-driven-analysis-of-chatgpts-impact-in-education-2a13da7f64c9)
+- 📖 [Part 1: What Students Really Think About ChatGPT: Impact on Study Difficulty,Emotions](https://medium.com/@arabellyabhinav28/what-students-really-think-about-chatgpt-a-data-driven-analysis-of-chatgpts-impact-in-education-2a13da7f64c9)
 - 📖 [Part 2: ChatGPT’s Impact on Employment, Access, and Challenging Fields](https://medium.com/@yashchaudhari33/3dd999360201)
 
 
