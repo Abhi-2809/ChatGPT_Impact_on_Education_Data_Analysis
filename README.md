@@ -10,8 +10,14 @@ This repository contains the data and code used to explore student perceptions o
 - **Questionnaire**: Survey questions used to collect responses.
 
 ### 2. `Code/`
-- **Part 1: Data Analysis**: Code for initial data exploration, visualization, and summary statistics.
-- **Part 2: Advanced Analysis**: Further segmentation by age, study level, student status, and extent of ChatGPT usage.
+-  **Part 1: Data Analysis**:
+  Code for initial data exploration, summary statistics
+  This notebook explores:
+  1. Students' emotional responses to using ChatGPT.
+  2. Differences in ChatGPT usage extent across age groups.
+  3. Comparison between free and paid ChatGPT users.
+  4. Patterns in how students use ChatGPT for various academic tasks.
+- **Part 2: 
 
 ---
 
@@ -25,7 +31,7 @@ This repository contains the data and code used to explore student perceptions o
 ## 📈 Project Overview
 We analyzed thousands of student survey responses to understand:
 - How students use ChatGPT across different academic difficulty levels ?
-- The perceived impact of AI tools on creativity, knowledge, and career preparation 
+- The perceived impact of AI tools on creativity, knowledge, Employement and career preparation 
 - Differences in ChatGPT usage across age groups, education levels, and student status
 
 ---
