@@ -1,5 +1,3 @@
-# ChatGPT_Impact_on_Education_Data_Analysis
-
 # ChatGPT Student Survey Analysis
 
 This repository contains the data and code used to explore student perceptions of ChatGPT in education, skills development, and the workforce.
@@ -25,12 +23,14 @@ This repository contains the data and code used to explore student perceptions o
 
 ## 📈 Project Overview
 We analyzed thousands of student survey responses to understand:
-- How students use ChatGPT across different academic difficulty levels
-- The perceived impact of AI tools on creativity, knowledge, and career preparation
+- How students use ChatGPT across different academic difficulty levels ?
+- The perceived impact of AI tools on creativity, knowledge, and career preparation 
 - Differences in ChatGPT usage across age groups, education levels, and student status
 
 ---
 
 ## 📬 Contact
-For any questions or suggestions, feel free to reach out!
+For any questions or suggestions, feel free to reach out
+Abhinav Arabelly📧 [Email me](mailto:arabellyabhinav28@gmail.com)
+Yash Chaudhari!
 
