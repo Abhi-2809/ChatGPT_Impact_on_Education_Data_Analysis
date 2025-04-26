@@ -16,7 +16,11 @@ For a more detailed analysis and discussion, check out our Medium articles:
 - **Cleaned Dataset**: Scripts to preprocess and clean the original survey dataset.
 - **Questionnaire**: Survey questions used to collect responses.
 
-### 2. `Code/`
+### 2. `Final Dataset/`
+
+- ** Final Dataset ** : ChatGPT_Education_Analysis.csv - Final Dataset - Ready to use for Analysis
+
+### 3. `Code/`
 -  **Part 1: Data Analysis**:
   Code for initial data exploration, summary statistics. We further explores:
     - Students' emotional responses to using ChatGPT.
