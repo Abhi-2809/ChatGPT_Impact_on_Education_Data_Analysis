@@ -22,7 +22,7 @@ For a more detailed analysis and discussion, check out our Medium articles:
 
 ### 3. `Code/`
 -  **Part 1: Data Analysis**:
-  Code for initial data exploration, summary statistics. We further explores:
+  Code for initial data exploration, summary statistics. We further explore:
     - Students' emotional responses to using ChatGPT.
     - Differences in ChatGPT usage extent across age groups.
     - Comparison between free and paid ChatGPT users.
